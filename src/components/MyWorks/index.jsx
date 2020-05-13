@@ -16,7 +16,7 @@ const MyWorks = () => (
         elementsMinWidth={350}
       >
         <ProjectDiv
-          // appLink="https://amoskeyz.github.io/AutoMart/UI/index.htm/"
+          appLink="https://bulk-sms-app-frontend-stagging.herokuapp.com"
           imgLink="http://res.cloudinary.com/amoslv/image/upload/v1582807425/n99jdzc37uudcxdndqkm.png"
         />
         <ProjectDiv
@@ -28,7 +28,7 @@ const MyWorks = () => (
           imgLink="http://res.cloudinary.com/amoslv/image/upload/v1582806421/qtsin6qypnyavv70fn8f.png"
         />
         <ProjectDiv
-          appLink="https://hello-books-deferral-staging.herokuapp.com/"
+          appLink="https://ccsshoppers.com/"
           imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572108431/Screen_Shot_2019-10-25_at_9.24.23_AM_iu0hmb.png"
         />
         <ProjectDiv
