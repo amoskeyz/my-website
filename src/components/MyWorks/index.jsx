@@ -8,7 +8,7 @@ const MyWorks = () => (
     <h2 className="my-works__title">My Works</h2>
     <div className="my-works__slider-wrap">
       <SliderMenu
-        autoMode
+        // autoMode
         elementsPerView={3}
         height={250}
         sliderTransition={1.5}
@@ -16,9 +16,26 @@ const MyWorks = () => (
         elementsMinWidth={350}
       >
         <ProjectDiv
-          appLink="https://bulk-sms-app-frontend-stagging.herokuapp.com"
+          appLink="https://app.utiva.io/home"
+          imgLink="https://ik.imagekit.io/62eig2lzls/Screenshot_2021-07-07_at_13.29.11_oRrgha2J8.png"
+        />
+        <ProjectDiv
+          appLink="https://utiva.io/"
+          imgLink="https://ik.imagekit.io/62eig2lzls/Screenshot_2021-07-07_at_13.38.07_oQDrykou_.png"
+        />
+        <ProjectDiv
+          appLink="https://ayodelejaynelagos.com/"
+          imgLink="https://ik.imagekit.io/62eig2lzls/Screenshot_2021-07-07_at_13.30.59_vhpvNO15D.png"
+        />
+        <ProjectDiv
+          appLink="https://ccsshoppers.com/"
+          imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572108431/Screen_Shot_2019-10-25_at_9.24.23_AM_iu0hmb.png"
+        />
+        <ProjectDiv
+          appLink="https://bulk-sms-app--frontend-stagging.herokuapp.com"
           imgLink="http://res.cloudinary.com/amoslv/image/upload/v1582807425/n99jdzc37uudcxdndqkm.png"
         />
+         
         <ProjectDiv
           appLink="https://demeter-ah-frontend-staging.herokuapp.com/"
           imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572108439/Screen_Shot_2019-10-25_at_10.33.32_AM_o7vila.png"
@@ -27,10 +44,7 @@ const MyWorks = () => (
           appLink="https://amoskeyz.github.io/AutoMart/UI/index.html"
           imgLink="http://res.cloudinary.com/amoslv/image/upload/v1582806421/qtsin6qypnyavv70fn8f.png"
         />
-        <ProjectDiv
-          appLink="https://ccsshoppers.com/"
-          imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572108431/Screen_Shot_2019-10-25_at_9.24.23_AM_iu0hmb.png"
-        />
+       
         <ProjectDiv
           appLink="https://amoskeyz.github.io/Epic-mail/UI/index.html"
           imgLink="http://res.cloudinary.com/amoslv/image/upload/v1582806900/i6g9pk96xv69afaytwgq.png"

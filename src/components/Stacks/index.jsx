@@ -8,12 +8,12 @@ const Stacks = () => (
     <div className="stacks__wrap">
       <StackList
         stackName="React"
-        score="75"
+        score="85"
         imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572104565/react_wii1jw.svg"
       />
       <StackList
         stackName="Redux"
-        score="50"
+        score="80"
         imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572104565/redux_co340h.svg"
       />
       {/* <StackList
@@ -23,12 +23,12 @@ const Stacks = () => (
       /> */}
       <StackList
         stackName="Node"
-        score="65"
+        score="75"
         imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572104565/nodejs_abllv9.svg"
       />
       <StackList
         stackName="Webpack"
-        score="70"
+        score="80"
         imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572104565/webpack_euqggc.svg"
       />
     </div>
