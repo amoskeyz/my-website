@@ -16,9 +16,13 @@ const MyWorks = () => (
         elementsMinWidth={350}
       >
         <ProjectDiv
+          appLink="https://www.nevadabridgetv.com/home"
+          imgLink="https://ik.imagekit.io/62eig2lzls/Screenshot_2021-09-17_at_19.12.39__2__ZDh3xQpD63l.png"
+        />
+        {/* <ProjectDiv
           appLink="https://app.utiva.io/home"
           imgLink="https://ik.imagekit.io/62eig2lzls/Screenshot_2021-07-07_at_13.29.11_oRrgha2J8.png"
-        />
+        /> */}
         <ProjectDiv
           appLink="https://utiva.io/"
           imgLink="https://ik.imagekit.io/62eig2lzls/Screenshot_2021-07-07_at_13.38.07_oQDrykou_.png"
