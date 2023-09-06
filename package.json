@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "My personal website for showing my works",
   "main": "src/App.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "test": "",
     "build": "rimraf dist && mkdir dist && webpack --mode=production",
@@ -82,8 +85,5 @@
     "react-router-dom": "^5.0.1",
     "react-slider-menu-package": "^1.0.0",
     "react-typewriter-effect": "^1.0.0"
-  },
-  "engines": {
-    "node": "14.x"
-  },
+  }
 }
