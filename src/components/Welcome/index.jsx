@@ -10,7 +10,7 @@ const Welcome = () => (
       <TypeWriterEffect
         textStyle={{ fontFamily: 'Salsa', color: '#3F3D56', fontSize: '2em' }}
         cursorColor="#3F3D56"
-        text="Hi, I am Amos Oruaroghene"
+        text="Hi, I am Amos"
         hideCursorAfterText
         typeSpeed={40}
       />

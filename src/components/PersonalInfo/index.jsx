@@ -10,7 +10,7 @@ const PersonalInfo = () => (
     />
     <div className="personal-info__bio flex-center">
       <div className="personal-info__bio__wrap">
-        <InfoList label="Name:" detail="Amos Oruaroghene" />
+        <InfoList label="Name:" detail="Amos" />
         {/* <InfoList label="Email:" detail="inspiron.amos@gmail.com" /> */}
         {/* <InfoList label="Phone:" detail="+2347084324266" /> */}
         <InfoList label="Github:" detail="amoskeysz" />
