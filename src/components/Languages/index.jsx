@@ -9,6 +9,8 @@ const Languages = () => (
       <LanguageList name="JavaScript" score="75" />
       <LanguageList name="HTML/CSS" score="85" />
       <LanguageList name="C/Embedded C" score="80" />
+      <LanguageList name="UI/UX" score="60" />
+      <LanguageList name="PHP" score="50" />
       {/* <LanguageList name="TypeScript" score="50" /> */}
     </div>
   </div>
